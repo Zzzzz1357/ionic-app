@@ -1,11 +1,11 @@
 {
   "name": "ionic-app",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "V.Postupinsky",
+  "homepage": "https://github.com/Zzzzz1357/ionic-app.git",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ionic serve",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
